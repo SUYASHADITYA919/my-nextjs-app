@@ -1,6 +1,7 @@
 # World Peas 🫛
 
 A modern Next.js e-commerce application for browsing and managing a basket of fresh vegetables and produce.
+<br>
 deployed link- https://my-nextjs-app-chi-indol.vercel.app/
 
 ## 📋 Table of Contents
